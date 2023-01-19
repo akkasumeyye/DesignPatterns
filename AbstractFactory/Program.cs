@@ -26,7 +26,7 @@ namespace AbstractFactory
     {
         public override void Log(string message)
         {
-            Console.WriteLine("Lohhed with log4net");
+            Console.WriteLine("Logged with log4net");
         }
     }
 
